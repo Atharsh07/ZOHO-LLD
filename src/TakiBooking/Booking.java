@@ -1,18 +1,15 @@
 package TakiBooking;
 
-public class Booking {
+class Booking {
     int bookingId, customerId, pickupTime, dropTime, amount;
     char from, to;
-
-    public Booking(int customerId, int bookingId, int pickupTime, int dropTime, int amount, char from, char to) {
-        this.customerId = customerId;
+    public Booking(int bookingId, int customerId, char from, char to, int pickupTime, int dropTime, int amount) {
         this.bookingId = bookingId;
+        this.customerId = customerId;
+        this.from = from;
+        this.to = to;
         this.pickupTime = pickupTime;
         this.dropTime = dropTime;
         this.amount = amount;
-        this.from = from;
-        this.to = to;
     }
-
-
 }
