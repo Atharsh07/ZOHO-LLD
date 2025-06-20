@@ -13,3 +13,4 @@ class Booking {
         this.amount = amount;
     }
 }
+

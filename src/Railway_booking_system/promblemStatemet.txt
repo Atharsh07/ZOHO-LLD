@@ -1,0 +1,14 @@
+railways ticket reservation system
+write an applicatioon for railway ticket reservation system the applciation should have four functionalities.
+
+-- book ticket
+-- cancel ticket
+-- print booked tickets
+-- print available tickets
+condtions for booking -- 63 berth 9 berth RAC 10 waiting list
+
+user  : - name age gender berth prefeence(60  > age or femal perfer lower berth)
+
+booking cancelation : -
+    rac -> booking confirmed
+    waiting list - rac
