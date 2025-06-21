@@ -1,0 +1,13 @@
+Implement the following modules, implementation functionalities.
+
+1. Booking ticket
+2. Booking condition : -
+    a. each flight has 50 seats
+    b. get passenger details along with fligth name and seats required
+    c. ticket starting price is 5000/-
+    d. after every successfull booking price increase by 200/-
+3. cancel ticket
+4. cancel condition
+    a. refund amt
+    b. price reduces by 200/- for every cancelled ticket
+5. print flight details with passengers
