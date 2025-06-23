@@ -1,0 +1,20 @@
+Mail management system
+
+1. store module
+    Mail has sender, receiver , subject, contact, tag
+2. delete module
+
+3. tage module
+user can add a tag to mails.
+
+4. stats module.
+it shows the count of mail, groups of tags , recent N mails.
+
+5. spam module.
+
+we need to tag spam based on the dictionary of works.
+
+6. search
+we need to search based on the query.
+
+7. wildcard.
