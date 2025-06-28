@@ -1,0 +1,12 @@
+Book Catalog System
+
+All books should have attributes: Name, Author, Publisher, Publish Year, Category, Price, Count
+(sold)
+
+The following should be implemented on top of this catalog:
+
+ Add book to the catalog
+ Search a book by partial book/author name
+ Get most sold books, by author name/category, limit
+
+Maintain the system on memory (no files/DB)
