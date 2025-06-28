@@ -1,0 +1,14 @@
+toll management system
+
+Consider n number tolls in an highway lets take 3 tolls
+
+if ur an vip customer 20% discont
+
+4 modules
+vechile type
+start location and desination location and total payment he or she paied in all the toll
+1.procseec jorney
+2.display toll details
+3.display vechicle details
+4.find the shortest route and calculate toll
+
